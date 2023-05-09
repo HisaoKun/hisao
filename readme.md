@@ -10,3 +10,4 @@ I am 17 years old currently and I like playing videogames and ocasionally a bit 
 - Computers
 - Videogames
 - Cars
+- Japanese culture, anime, manga, cars :jp:
