@@ -7,7 +7,8 @@ I am 17 years old currently and I like playing videogames and ocasionally a bit 
 <img src="https://github.com/HisaoKun/hisao/blob/0f784f9bc52b9f8d084bf734741175bf902e6707/images/emi.png" width="300"> <img src="https://github.com/HisaoKun/hisao/blob/4309f7a12a989e25799b4210696edecf7c8f1f84/images/KatawaShoujo.png" width="500">
 
 ### *Interests*
-- Computers
-- Videogames
+- Computers, operating systems and customistation
+- Videogames, Visual Novels
 - Cars
 - Japanese culture, anime, manga, cars :jp:
+- Techwear and cyberpunk stuff in general
